@@ -1,0 +1,13 @@
+# Folder editor
+.vscode/
+.idea/
+
+# Sistem operasi
+.DS_Store
+Thumbs.db
+
+# File log/debug
+*.log
+
+# Folder hasil build (jika ada)
+dist/
