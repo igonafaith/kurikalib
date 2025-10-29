@@ -1,0 +1,2 @@
+# kurikalib
+KURIKALIB
