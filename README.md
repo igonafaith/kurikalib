@@ -1,2 +1,2 @@
-# kurikalib
+# KURIKALIB XDSA
 KURIKALIB
