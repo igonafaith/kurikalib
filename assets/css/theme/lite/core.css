@@ -1,1 +1,5 @@
-
+:root {
+    --base001: #ffffff; /* White */
+    --base002: #f8f8ff; /* Ghostwhite */
+    --base003: #f5f5f5; /* Whitesmoke */
+}
